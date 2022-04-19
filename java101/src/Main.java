@@ -42,7 +42,7 @@ public class Main {
                 String str = sonuc2 ? "Sınıfı Gecti" : "Sınıfta Kaldi";
                 System.out.println(str);
 
-
+    (https://www.patika.dev)
 
     }
 
